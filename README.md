@@ -42,3 +42,11 @@ A family of mono waveshapers for Max/MSP, built in gen~, for synthesis: audio os
 **Light on CPU:** br.shaper.multi only computes the shape you've chosen (both shapes during a crossfade).
 
 The example patch (_br.shaper.example.1.0.maxpat) has a tab with the four shapes side by side, a tab for br.shaper.multi, and a tab with a shaped LFO on a scope.
+
+## <a name="Credits"></a>Credits
+
+Antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, "Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.
+
+## <a name="Credits"></a>Credits
+
+Antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, "Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.

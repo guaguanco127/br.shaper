@@ -109,3 +109,7 @@ Open _br.shaper.example.1.0.maxpat (keep it in the same folder as the abstractio
 - **singles:** The four shapes side by side, all fed by the same source (sine, saw or microphone, with a frequency box). The listen menu chooses which one you hear, with a 20 ms crossfade, and "dry" plays the unshaped source to compare. Raise Drive and watch the spectroscope~.
 - **multi:** br.shaper.multi with its Mode menu. Switch modes while it plays: the change crossfades, so it never clicks.
 - **lfo:** A slow sine through br.shaper.multi, shown on a scope. Try each Mode with Drive around 3: fold bounces back at the ends, wrap jumps to the other end, clip holds at the ends, buchla rounds the bounces.
+
+## <a name="Credits"></a>Credits
+
+Antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, "Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.

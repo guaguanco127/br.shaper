@@ -1,5 +1,6 @@
 {
     "patcher": {
+"description" : "_br.shaper.example.1.0 -- Created by Brian Riordan, guaguanco127@gmail.com -- https://github.com/guaguanco127/ -- Credits: antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, \"Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution\", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.",
         "fileversion": 1,
         "appversion": {
             "major": 9,
@@ -18,6 +19,8 @@
         "showrootpatcherontab": 0,
         "showontab": 0,
         "boxes": [
+{"box": {"id": "obj-signature", "maxclass": "comment", "numinlets": 1, "numoutlets": 0, "patching_rect": [1051.0, 15.0, 520.0, 100.0], "text": "_br.shaper.example.1.0 -- Created by Brian Riordan, guaguanco127@gmail.com\nhttps://github.com/guaguanco127/\nCredits: antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, \"Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution\", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.", "linecount": 5}},
+
             {
                 "box": {
                     "fontname": "Arial",

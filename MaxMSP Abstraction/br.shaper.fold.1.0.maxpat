@@ -39,13 +39,15 @@
         "enablehscroll": 1,
         "enablevscroll": 1,
         "devicewidth": 110.0,
-        "description": "",
+        "description" : "br.shaper.fold.1.0 -- Created by Brian Riordan, guaguanco127@gmail.com -- https://github.com/guaguanco127/ -- Credits: antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, \"Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution\", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.",
         "digest": "",
         "tags": "",
         "style": "",
         "subpatcher_template": "",
         "assistshowspatchername": 0,
         "boxes": [
+{"box": {"id": "obj-signature", "maxclass": "comment", "numinlets": 1, "numoutlets": 0, "patching_rect": [634.0, 15.0, 520.0, 100.0], "text": "br.shaper.fold.1.0 -- Created by Brian Riordan, guaguanco127@gmail.com\nhttps://github.com/guaguanco127/\nCredits: antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, \"Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution\", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.", "linecount": 5}},
+
             {
                 "box": {
                     "maxclass": "comment",
@@ -510,7 +512,7 @@
             {
                 "box": {
                     "maxclass": "panel",
-                    "id": "obj-panel",
+                    "id": "obj-panel", "hint" : "br.shaper.fold.1.0 -- Created by Brian Riordan, guaguanco127@gmail.com -- https://github.com/guaguanco127/ -- Credits: antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, \"Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution\", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.", "annotation" : "br.shaper.fold.1.0 -- Created by Brian Riordan, guaguanco127@gmail.com -- https://github.com/guaguanco127/ -- Credits: antiderivative anti-aliasing (Parker, Zavalishin & Le Bivic, \"Reducing the Aliasing of Nonlinear Waveshaping Using Continuous-Time Convolution\", DAFx-16, 2016); the buchla shape is in the style of the Buchla 259 timbre circuit.",
                     "numinlets": 1,
                     "numoutlets": 0,
                     "outlettype": [],
